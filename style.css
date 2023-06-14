@@ -145,7 +145,7 @@ button {
 .btn-bot {
     width: 100% !important;
     height: auto !important;
-    margin-bottom: 30px;   
+       
     position: fixed;
     z-index: 99999;
     right: 0;
